@@ -87,21 +87,6 @@ taskmanager/
 │   │   ├── App.js
 │   │   └── index.js
 │   └── package.json
-│
-└── backend/                  # ASP.NET Core API
-    ├── Controllers/
-    │   ├── AuthController.cs
-    │   ├── TaskController.cs
-    │   └── AdminController.cs
-    ├── Services/
-    │   ├── AuthService.cs
-    │   ├── UserService.cs
-    │   ├── TaskService.cs
-    │   └── FileService.cs
-    ├── Models/
-    │   └── Models.cs
-    ├── Program.cs
-    └── appsettings.json
 ```
 
 📡 API Endpoints
